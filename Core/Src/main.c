@@ -105,7 +105,7 @@ int main(void)
   /* USER CODE BEGIN 2 */
 
   printf("Smart Device Starthhh.\r\n");
-  printf("Smart Device Starthhh.\r\n");
+  // printf("Smart Device Starthhh.\r\n");
 
   SmartDeviceInit();
 
